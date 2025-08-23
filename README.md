@@ -172,8 +172,6 @@
 
 ❌ Không gửi dưới hầm Bitexco.
 ✅ Gửi tại:
-
-* 19 Tôn Đức Thắng (có xe điện sang Bitexco).
 * Vincom Đồng Khởi (5 phút taxi).
 
 
