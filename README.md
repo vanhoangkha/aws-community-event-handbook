@@ -1,10 +1,10 @@
-# 📘 SỔ TAY VẬN HÀNH SỰ KIỆN
+# SỔ TAY VẬN HÀNH SỰ KIỆN
 
 **Bitexco Financial Tower – Tầng 26 (200 khách) & Tầng 36 (150 khách)**
 
 ---
 
-## 🎯 Mục tiêu
+## Mục tiêu
 
 * Đảm bảo sự kiện diễn ra **chuyên nghiệp – an toàn – đúng tiến độ**.
 * Chuẩn hóa công việc cho từng vị trí để **BTC và tình nguyện viên dễ dàng thực thi**.
@@ -12,7 +12,7 @@
 
 ---
 
-## ⏰ Khung thời gian mẫu
+## Khung thời gian mẫu
 
 ### Sự kiện nửa ngày (Half-day – 07:00 đến 12:30)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 👥 Vai trò & Nhiệm vụ chi tiết
+## Vai trò & Nhiệm vụ chi tiết
 
 ### 1. **Đội Access Card (2 người) – Sảnh chính**
 
@@ -148,9 +148,9 @@
 
 ---
 
-## 🛠 Hậu cần & Trang thiết bị
+## Hậu cần & Trang thiết bị
 
-* **Check-in:** chỉ đặt bàn tại tầng 26 & 36 (❌ không đặt bàn ở lobby).
+* **Check-in:** chỉ đặt bàn tại tầng 26 & 36 (không đặt bàn ở lobby).
 * **AV:** mỗi tầng tối thiểu 4 micro (2 cầm tay + 2 cài áo), 1 micro dự phòng.
 * **Laptop backup** cài sẵn slide.
 * **Internet:** wifi guest + router 4G backup.
@@ -159,19 +159,19 @@
 
 ---
 
-## 🚗 Di chuyển & gửi xe
+## Di chuyển & gửi xe
 
 ### Xe máy
 
-❌ Không gửi dưới hầm Bitexco (đắt & dễ kẹt).
-✅ Gửi tại:
+Không gửi dưới hầm Bitexco (đắt & dễ kẹt).
+Gửi tại:
 
 * Các bãi xe tư nhân Hồ Tùng Mậu / Ngô Đức Kế.
 
 ### Ô tô
 
-❌ Không gửi dưới hầm Bitexco.
-✅ Gửi tại:
+Không gửi dưới hầm Bitexco.
+Gửi tại:
 * Vincom Đồng Khởi (5 phút taxi).
 
 
@@ -182,7 +182,7 @@
 
 ---
 
-## 🎤 Phối hợp MC & Speaker
+## Phối hợp MC & Speaker
 
 * Bố trí **phòng chờ diễn giả** tại tầng 26.
 * Stage Manager chuẩn bị clicker, nước, cue cards.
@@ -190,7 +190,7 @@
 
 ---
 
-## 📡 Truyền thông onsite
+## Truyền thông onsite
 
 * Backdrop/Photobooth: đặt tại lobby & hội trường.
 * Hashtag sự kiện: in trong agenda.
@@ -198,7 +198,7 @@
 
 ---
 
-## 🚨 Phương án dự phòng (Plan B)
+## Phương án dự phòng (Plan B)
 
 * Mic hỏng → đổi mic dự phòng.
 * Slide lỗi → laptop backup.
@@ -210,7 +210,7 @@
 
 ---
 
-## 📦 Hậu sự kiện
+## Hậu sự kiện
 
 * Thu hồi badge, backdrop, standee, thiết bị.
 * Tổng hợp feedback QR.
@@ -220,7 +220,7 @@
 
 ---
 
-## ✅ Checklist chuẩn bị (Tối thiểu 1 ngày trước sự kiện)
+## Checklist chuẩn bị (Tối thiểu 1 ngày trước sự kiện)
 
 * Badge + welcome kit đóng gói.
 * Slide tập hợp, test laptop chính + backup.
@@ -231,4 +231,4 @@
 * Đặt sẵn bộ sơ cứu tại tầng 26 & 36.
 
 ---
-Author: CMO – Chief Meme Officer, Khả Vân ✨
+Author: CMO – Chief Meme Officer, Khả Vân
